@@ -1,7 +1,7 @@
 import Foundation
 
 public struct SDK {
-    static func doSomeWork() {
+    static public func doSomeWork() {
         print("Doing some work...")
     }
 }
